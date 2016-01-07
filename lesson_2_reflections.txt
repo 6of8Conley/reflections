@@ -1,0 +1,24 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+it probally creates the hidden file and set up the tracking for chages. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+I allows you to keep the orginal files untouched.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You could add a file to staging before making the the chnage?  I'm not sure.  I don't think I understand the idea of a staging area. 
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to keep a working version, but try large changes.  
+
+How do the diagrams help you visualize the branch structure? 
+
+Some people are more visual. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It combines all the changes to the master, this way someone can work on a branch and complete a task and merge it back into the master. 
